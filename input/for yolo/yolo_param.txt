@@ -1,0 +1,13 @@
+https://pjreddie.com/darknet/yolo/
+yolo3:
+	cfg: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-spp.cfg
+	weights: https://pjreddie.com/media/files/yolov3-spp.weights
+yolo3-tiny:
+	cfg: https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg
+	weights: https://pjreddie.com/media/files/yolov3-tiny.weights
+yolo2:
+	cfg:
+	weights:
+yolo2-tiny:
+	cfg:
+	weights:
